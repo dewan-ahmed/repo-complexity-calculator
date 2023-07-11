@@ -1,5 +1,3 @@
-# repo-complexity-calculator
-
 # Repo Complexity Collector
 
 This repository contains a Python program that uses the GitHub API to collect various metrics for a given GitHub repository. The collected metrics are used to (roughly) calculate the complexity of that codebase. 
